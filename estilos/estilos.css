@@ -1,0 +1,22 @@
+html {
+    font-size: 50px;
+}
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+.encabezado {
+    background-color: #0e490e;
+    padding: 15px 20px;
+    text-align: left;
+}
+.titulo {
+    color: #ffffff;
+    font-weight: bold;
+    left: 0;
+    font-size: 0.4rem;
+}
+.tituloreread{
+    font-size: 1.7rem;
+    text-align: center;
+}
