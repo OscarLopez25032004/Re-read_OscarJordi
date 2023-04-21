@@ -20,3 +20,73 @@ body {
     font-size: 1.7rem;
     text-align: center;
 }
+.descreread {
+    text-align: center;
+    font-size: 0.4rem;
+    width: 800px;
+    margin: 0 auto;
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.column2-1 {
+    width: 65%;
+}
+.column2-2 {
+    width: 35%;
+}
+nav {
+    border-bottom: 2px solid orange;
+}
+/* indica el estilo css de los elementos del panel de navegación */
+nav li {
+    font-size: 0.3rem;
+    background-color: rgba(255, 255, 255, 0.5);
+	display: inline-block;
+    padding: 15px 20px;
+    text-align: left;
+    padding: 20px;
+}
+/* indica el estilo css de los elementos del panel de navegación */
+nav a {
+	color: #000000;
+	text-decoration: none;
+}
+/* indica el estilo css de los elementos del panel de navegación al arrastrar el ratón por encima */
+nav li:hover {
+    color: white;
+    background-color: rgb(255, 115, 0);
+}
+.textobotones {
+    font-size: 0.5rem;
+    margin-left: 8%;
+}
+.textobotones2 {
+    font-size: 0.5rem;
+    margin-left: 8%;
+}
+.column2-2titulo {
+    font-size: 0.5rem;
+}
+.column2-2texto {
+    padding: 1px;
+    background-color: #1b571b;
+    margin: 10px;
+    color: white;
+    font-size: 0.4rem;
+}
+.column2-2p {
+    margin-left: 4%;
+}
+.fleximglibros {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    justify-content: left;
+    margin-left: 8%;
+}
+.column-3 {
+    width: 33%;
+}
